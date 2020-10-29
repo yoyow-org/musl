@@ -1,8 +1,4 @@
 #pragma once
-/**
- *  @file
- *  @copyright defined in eos/LICENSE.txt
- */
 
 #include <stdint.h>
 
